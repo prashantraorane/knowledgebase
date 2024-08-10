@@ -1,1 +1,3 @@
-
+YAML - yet another markup language
+YAML - Data Searialization format.
+YAML - Data searialization is the process of converting data structure into a format that can easily stored, transmitted and later recontructed.
